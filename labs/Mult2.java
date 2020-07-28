@@ -3,7 +3,7 @@ public class Mult2 {
         int num = 0;
 
         for (num = 1; num <= 16; num = num + 1) 
-            System.out.print((num * 2) + "\t");
-            System.out.println("");
+            System.out.print((num * 2) + "  ");
+            System.out.println("\n");
     }
 }
